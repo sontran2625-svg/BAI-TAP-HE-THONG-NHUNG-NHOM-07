@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F103_BareMetal",
+            "includePath": [
+                "${workspaceFolder}/inc"
+            ],
+            "defines": [
+                "STM32F103xB" 
+            ],
+            "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "intelliSenseMode": "linux-gcc-arm"
+        }
+    ],
+    "version": 4
+}

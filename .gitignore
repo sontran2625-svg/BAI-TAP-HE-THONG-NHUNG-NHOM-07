@@ -1,5 +1,10 @@
+*.zip
+*.rar
+*.7z
+*.mp4
+build/
 *.o
 *.elf
 *.bin
+*.hex
 *.map
-.vscode/
